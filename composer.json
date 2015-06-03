@@ -1,5 +1,5 @@
 {
-  "name": "hgtan/composer-custom-directory-installer",
+  "name": "hgtan/composer-directory-installer",
   "type": "composer-plugin",
   "description":  "A composer plugin, to install differenty types of composer packages in custom directories outside the default composer default installation path which is in the `vendor` folder.",
   "license": "MIT",
