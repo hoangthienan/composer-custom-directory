@@ -15,7 +15,7 @@ Installation
 ```
   "require":{
     "php": ">=5.4",
-    "idct/composer-directory-installer": "1.0.*",
+    "hgtan/composer-directory-installer": "1.0.*",
     "monolog/monolog": "*"
   }
 ```
