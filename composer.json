@@ -1,13 +1,13 @@
 {
-  "name": "idct/composer-custom-directory",
+  "name": "hgtan/composer-custom-directory",
   "type": "composer-plugin",
   "description":  "A composer plugin, to install differenty types of composer packages in custom directories outside the default composer default installation path which is in the `vendor` folder.",
   "license": "MIT",
   "keywords": ["composer", "composer-plugin", "composer-installer"],
   "authors": [
     {
-      "name": "Bartosz Pacholek",
-      "email": "bartosz@ideaconnect.pl"
+      "name": "",
+      "email": ""
     }
   ],
   "minimum-stability": "stable",
